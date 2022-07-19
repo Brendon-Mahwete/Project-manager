@@ -1,0 +1,6 @@
+The Mark,Club,589 Raven dr,21/02/2023,125,256,65000.0,56000.0,false,Client,John,John@gmail.com,457 Mall st,0568967744,Architect,Max,Max@gmail.com,88 Good st,0689693321,Contractor,Ben,Ben@email.co.za,78 Sandton,0458963452,
+Commuin,House,458 Bree,22/06/2023,25,658,69000.0,69000.0,true,Client,Nell,Nell@mail.com,369 Pree,0115698855,Architect,Max,Max@gmail.com,88 Good st,0689693321,Contractor,Ben,Ben@email.co.za,78 Sandton,0458963452,
+New Appartment,Appartment,859 Peter,01/05/2021,589,458,96000.0,90000.0,false,Client,Kane,K@mail.com,56 Mark,01234567489,Architect,Max,Max@gmail.com,88 Good st,0689693321,Contractor,Ben,Ben@email.co.za,78 Sandton,0458963452,
+Office,Skyscraper,86 Sandton dr,25/09/2024,96,14,150000.0,98000.0,false,Client,Thabo,TH@mail.co.za,69 Madiba,0112345678,Architect,Max,Max@gmail.com,88 Good st,0689693321,Contractor,Ben,Ben@email.co.za,78 Sandton,0458963452,
+Blue Moon,Air BNB,5 Revonia,21/06/2020,154,25,85000.0,32002.0,false,Client,Lane,Lane@smail.com,58 John,0365865757,Architect,Max,Max@gmail.com,88 Good st,0689693321,Contractor,Ben,Ben@email.co.za,78 Sandton,0458963452,
+Home,House,87 Good st,25/06/2026,54,235,750000.0,352000.0,false,Client,Yolanda,yolan@webmail.co.za,89 Cape dr,0256843535,Architect,Max,Max@gmail.com,88 Good st,0689693321,Contractor,Ben,Ben@email.co.za,78 Sandton,0458963452,
