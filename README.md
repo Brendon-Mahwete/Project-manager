@@ -1,3 +1,3 @@
 # Project-manager
-A system that keeps record of a building companies projects, and the information about the Client, Contractor and Architect.
-The System built with Java and it incorporates OOP. The system can keep track of the building companies projects, update projects or check if projects are overdue.
+This is a project management system for a building company to manage its projects.
+The program uses mySQL to manage the data in the place of text files. The database (projects) is accessed by the java program using the Connection class. This program is coding in the Java language and it is designed in such a way that the data is accessed smoothly. It makes use of the Java OOP to keep the details of individuals involved in the projects.
